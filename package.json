@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@googlemaps/markerclusterer": "^2.6.2",
+    "@react-google-maps/api": "^2.20.7",
+    "axios": "^1.10.0",
+    "chart.js": "^4.5.0",
+    "formik": "^2.4.6",
+    "react-chartjs-2": "^5.3.0",
+    "react-toastify": "^11.0.5",
+    "socket.io": "^4.8.1",
+    "yup": "^1.6.1"
+  }
+}
